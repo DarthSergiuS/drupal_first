@@ -6,3 +6,17 @@
 
 // Base-theme overrides.
 @import 'overrides';
+
+section.views-element-container:nth-child(4) > h2:nth-child(1){
+	color:red;
+}
+
+.name{
+	color:#00695c !important;
+	font-weight: bold;
+}
+
+.view-gallery{
+	width: 100%;
+	background-image: url(../images/tumblr_static_tumblr_static__640.jpg); 
+}

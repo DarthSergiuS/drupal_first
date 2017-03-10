@@ -9585,3 +9585,20 @@ p:last-child,
 .help-block:first-child, .control-group .help-inline:first-child {
   margin-top: 0;
 }
+
+/* line 10, ../scss/style.scss */
+section.views-element-container:nth-child(4) > h2:nth-child(1) {
+  color: red;
+}
+
+/* line 14, ../scss/style.scss */
+.name {
+  color: #00695c !important;
+  font-weight: bold;
+}
+
+/* line 19, ../scss/style.scss */
+.view-gallery {
+  width: 100%;
+  background-image: url(../images/tumblr_static_tumblr_static__640.jpg);
+}
